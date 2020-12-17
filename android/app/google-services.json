@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "392232377732",
+    "firebase_url": "https://imdb-62300.firebaseio.com",
+    "project_id": "imdb-62300",
+    "storage_bucket": "imdb-62300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392232377732:android:cfab34ae0550fab15c91d1",
+        "android_client_info": {
+          "package_name": "com.movieproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392232377732-9ku29hiv5fft86l73rldg97c1415vfb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVuZtFF2TtqZnYlX-nd8rVPN8JG6QiV9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392232377732-9ku29hiv5fft86l73rldg97c1415vfb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
